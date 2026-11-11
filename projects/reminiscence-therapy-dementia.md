@@ -28,7 +28,6 @@ These observations are reported as findings from a small qualitative academic st
 ## Limitations and interpretation
 
 The dissertation identifies important limitations, including:
-
 - Small sample size
 - Qualitative and subjective measures
 - Potential response bias
