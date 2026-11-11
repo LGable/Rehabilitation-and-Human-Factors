@@ -15,6 +15,7 @@ Applied demonstrations of return-to-work coordination, environmental usability, 
 - [Patient and environmental human factors](projects/environmental_safety.md)
 - [Functional vocational programming](projects/vocational_programs.md)
 - [Clinical and home-health case coordination](projects/care_coordination.md)
+- [Reminiscence therapy and occupational performance in dementia](projects/reminiscence-therapy-dementia.md)
 
 ## Data and reproducibility
 
