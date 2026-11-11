@@ -1,0 +1,121 @@
+synthetic_case_id,industry,service_pathway,days_to_plan,illustrative_outcome,accommodation_count
+DEMO-RTW-001,transport,Stay-at-work,10,Closed other,3
+DEMO-RTW-002,healthcare,Needs assessment,24,Modified duties,2
+DEMO-RTW-003,construction,Stay-at-work,13,Modified duties,2
+DEMO-RTW-004,construction,Stay-at-work,14,Modified duties,3
+DEMO-RTW-005,manufacturing,Stay-at-work,23,Return to work,0
+DEMO-RTW-006,construction,Needs assessment,14,Return to work,2
+DEMO-RTW-007,healthcare,Return-to-work,11,Return to work,3
+DEMO-RTW-008,healthcare,Return-to-work,11,Closed other,2
+DEMO-RTW-009,transport,Needs assessment,22,Closed other,1
+DEMO-RTW-010,manufacturing,Stay-at-work,21,Ongoing,0
+DEMO-RTW-011,transport,Return-to-work,6,Closed other,1
+DEMO-RTW-012,office,Needs assessment,3,Return to work,3
+DEMO-RTW-013,construction,Return-to-work,4,Return to work,0
+DEMO-RTW-014,office,Stay-at-work,24,Closed other,2
+DEMO-RTW-015,healthcare,Stay-at-work,15,Closed other,0
+DEMO-RTW-016,office,Return-to-work,19,Closed other,0
+DEMO-RTW-017,construction,Needs assessment,24,Closed other,2
+DEMO-RTW-018,hospitality,Needs assessment,18,Modified duties,0
+DEMO-RTW-019,healthcare,Return-to-work,7,Return to work,1
+DEMO-RTW-020,construction,Stay-at-work,4,Modified duties,3
+DEMO-RTW-021,healthcare,Stay-at-work,20,Return to work,0
+DEMO-RTW-022,transport,Needs assessment,6,Return to work,3
+DEMO-RTW-023,office,Stay-at-work,19,Return to work,1
+DEMO-RTW-024,healthcare,Needs assessment,2,Return to work,2
+DEMO-RTW-025,transport,Return-to-work,5,Closed other,3
+DEMO-RTW-026,healthcare,Return-to-work,12,Return to work,3
+DEMO-RTW-027,healthcare,Return-to-work,18,Return to work,3
+DEMO-RTW-028,office,Stay-at-work,24,Closed other,3
+DEMO-RTW-029,transport,Return-to-work,13,Return to work,0
+DEMO-RTW-030,hospitality,Return-to-work,8,Return to work,3
+DEMO-RTW-031,hospitality,Needs assessment,2,Return to work,0
+DEMO-RTW-032,healthcare,Stay-at-work,22,Return to work,3
+DEMO-RTW-033,healthcare,Stay-at-work,19,Closed other,0
+DEMO-RTW-034,healthcare,Stay-at-work,15,Ongoing,3
+DEMO-RTW-035,construction,Stay-at-work,5,Return to work,3
+DEMO-RTW-036,construction,Needs assessment,23,Return to work,3
+DEMO-RTW-037,office,Stay-at-work,12,Closed other,3
+DEMO-RTW-038,hospitality,Needs assessment,6,Modified duties,1
+DEMO-RTW-039,construction,Needs assessment,4,Closed other,0
+DEMO-RTW-040,transport,Stay-at-work,14,Closed other,3
+DEMO-RTW-041,office,Needs assessment,7,Modified duties,3
+DEMO-RTW-042,manufacturing,Stay-at-work,24,Modified duties,2
+DEMO-RTW-043,office,Needs assessment,4,Closed other,3
+DEMO-RTW-044,construction,Return-to-work,18,Closed other,2
+DEMO-RTW-045,construction,Stay-at-work,2,Return to work,3
+DEMO-RTW-046,manufacturing,Needs assessment,8,Closed other,2
+DEMO-RTW-047,hospitality,Needs assessment,17,Closed other,0
+DEMO-RTW-048,hospitality,Stay-at-work,24,Return to work,2
+DEMO-RTW-049,construction,Stay-at-work,14,Ongoing,1
+DEMO-RTW-050,manufacturing,Stay-at-work,14,Return to work,0
+DEMO-RTW-051,office,Return-to-work,24,Return to work,3
+DEMO-RTW-052,healthcare,Stay-at-work,3,Return to work,2
+DEMO-RTW-053,office,Stay-at-work,16,Return to work,1
+DEMO-RTW-054,manufacturing,Needs assessment,5,Return to work,2
+DEMO-RTW-055,construction,Needs assessment,23,Modified duties,2
+DEMO-RTW-056,office,Needs assessment,19,Return to work,1
+DEMO-RTW-057,manufacturing,Return-to-work,10,Ongoing,2
+DEMO-RTW-058,manufacturing,Needs assessment,17,Closed other,1
+DEMO-RTW-059,manufacturing,Needs assessment,13,Modified duties,3
+DEMO-RTW-060,transport,Return-to-work,17,Modified duties,2
+DEMO-RTW-061,manufacturing,Stay-at-work,11,Ongoing,1
+DEMO-RTW-062,construction,Return-to-work,21,Return to work,3
+DEMO-RTW-063,manufacturing,Needs assessment,21,Modified duties,1
+DEMO-RTW-064,construction,Return-to-work,2,Return to work,2
+DEMO-RTW-065,healthcare,Needs assessment,20,Return to work,1
+DEMO-RTW-066,transport,Return-to-work,20,Return to work,0
+DEMO-RTW-067,healthcare,Return-to-work,5,Modified duties,0
+DEMO-RTW-068,hospitality,Stay-at-work,7,Return to work,2
+DEMO-RTW-069,transport,Stay-at-work,6,Return to work,1
+DEMO-RTW-070,healthcare,Needs assessment,14,Return to work,3
+DEMO-RTW-071,construction,Return-to-work,18,Modified duties,2
+DEMO-RTW-072,hospitality,Return-to-work,15,Return to work,1
+DEMO-RTW-073,transport,Return-to-work,2,Return to work,0
+DEMO-RTW-074,hospitality,Return-to-work,23,Modified duties,1
+DEMO-RTW-075,manufacturing,Return-to-work,3,Return to work,3
+DEMO-RTW-076,office,Return-to-work,4,Modified duties,1
+DEMO-RTW-077,healthcare,Return-to-work,22,Return to work,2
+DEMO-RTW-078,manufacturing,Stay-at-work,19,Return to work,1
+DEMO-RTW-079,hospitality,Return-to-work,19,Modified duties,2
+DEMO-RTW-080,transport,Stay-at-work,10,Modified duties,0
+DEMO-RTW-081,construction,Needs assessment,5,Closed other,3
+DEMO-RTW-082,office,Return-to-work,10,Return to work,0
+DEMO-RTW-083,manufacturing,Stay-at-work,4,Return to work,2
+DEMO-RTW-084,construction,Needs assessment,24,Return to work,3
+DEMO-RTW-085,hospitality,Return-to-work,8,Return to work,3
+DEMO-RTW-086,construction,Return-to-work,5,Return to work,1
+DEMO-RTW-087,healthcare,Return-to-work,17,Return to work,3
+DEMO-RTW-088,office,Stay-at-work,4,Return to work,1
+DEMO-RTW-089,healthcare,Stay-at-work,14,Return to work,3
+DEMO-RTW-090,manufacturing,Stay-at-work,12,Modified duties,3
+DEMO-RTW-091,construction,Needs assessment,5,Closed other,1
+DEMO-RTW-092,healthcare,Needs assessment,22,Return to work,0
+DEMO-RTW-093,office,Return-to-work,16,Closed other,2
+DEMO-RTW-094,transport,Needs assessment,12,Return to work,2
+DEMO-RTW-095,manufacturing,Needs assessment,2,Closed other,1
+DEMO-RTW-096,manufacturing,Stay-at-work,23,Closed other,1
+DEMO-RTW-097,manufacturing,Needs assessment,22,Return to work,2
+DEMO-RTW-098,office,Stay-at-work,9,Closed other,0
+DEMO-RTW-099,healthcare,Needs assessment,14,Return to work,0
+DEMO-RTW-100,healthcare,Stay-at-work,21,Return to work,3
+DEMO-RTW-101,transport,Needs assessment,16,Return to work,0
+DEMO-RTW-102,healthcare,Needs assessment,6,Modified duties,2
+DEMO-RTW-103,transport,Needs assessment,19,Modified duties,3
+DEMO-RTW-104,manufacturing,Needs assessment,24,Modified duties,2
+DEMO-RTW-105,hospitality,Return-to-work,9,Closed other,2
+DEMO-RTW-106,construction,Needs assessment,9,Return to work,0
+DEMO-RTW-107,transport,Needs assessment,22,Return to work,1
+DEMO-RTW-108,construction,Needs assessment,3,Closed other,3
+DEMO-RTW-109,office,Stay-at-work,23,Return to work,0
+DEMO-RTW-110,transport,Return-to-work,9,Modified duties,2
+DEMO-RTW-111,healthcare,Needs assessment,8,Closed other,3
+DEMO-RTW-112,construction,Stay-at-work,2,Return to work,3
+DEMO-RTW-113,manufacturing,Stay-at-work,3,Modified duties,2
+DEMO-RTW-114,office,Return-to-work,19,Modified duties,0
+DEMO-RTW-115,hospitality,Needs assessment,23,Return to work,2
+DEMO-RTW-116,manufacturing,Return-to-work,14,Return to work,0
+DEMO-RTW-117,hospitality,Needs assessment,13,Return to work,1
+DEMO-RTW-118,office,Return-to-work,18,Closed other,3
+DEMO-RTW-119,construction,Return-to-work,17,Closed other,1
+DEMO-RTW-120,manufacturing,Stay-at-work,9,Modified duties,2
