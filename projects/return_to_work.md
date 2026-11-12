@@ -6,7 +6,7 @@
 
 Referral → functional/work demands assessment → accommodation and graded plan → employer/insurer review → periodic progress → case closure. This model integrates employment participation, job redesign, work-hour progression, physical demands and interdisciplinary coordination.
 
-Historical résumé claims approximately 89% successful return-to-work outcomes, 94% case-throughput performance, 49% reporting efficiency improvement and a 37% personal documentation-time reduction. These require source verification and precise denominators.
+Historical résumé materials describe successful return-to-work outcomes, case-throughput performance, reporting-efficiency improvement, and documentation-time reduction. Numerical percentages are not published here because the available materials do not establish the required denominators, comparison periods, and measurement definitions.
 
 ## Synthetic example
 
