@@ -1,6 +1,6 @@
 # Government-Funded Return-to-Work Program Coordination
 
-**Type:** Owner-reported New Zealand career experience + synthetic reporting dataset.
+**Type:** Historical New Zealand career experience + synthetic reporting dataset.
 
 ## Process
 

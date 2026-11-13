@@ -1,6 +1,6 @@
 # Functional Vocational Programming | Program Design
 
-**Type:** Generalized implementation model inspired by historically reported clinical café, gardening, cooking and vocational exploration programs.
+**Type:** Generalized implementation model inspired by professional clinical café, gardening, cooking, and vocational exploration programs.
 
 ## Work design
 
